@@ -1,0 +1,16 @@
+<!-- Placeholder for project image 3 -->
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="url(#gradient3)"/>
+  <defs>
+    <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="50" y="50" width="500" height="300" rx="10" fill="white" fill-opacity="0.1"/>
+  <text x="300" y="200" text-anchor="middle" fill="white" font-size="24" font-family="Arial">Fitness Tracker</text>
+  <rect x="150" y="120" width="80" height="8" rx="4" fill="white" fill-opacity="0.4"/>
+  <rect x="150" y="140" width="120" height="8" rx="4" fill="white" fill-opacity="0.3"/>
+  <rect x="150" y="160" width="100" height="8" rx="4" fill="white" fill-opacity="0.4"/>
+  <circle cx="400" cy="140" r="40" fill="white" fill-opacity="0.2"/>
+</svg>
